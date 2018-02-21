@@ -1,3 +1,5 @@
+// Copyright Dylan Neve 2018 <dylanneve1@gmail.com>
+
 import javax.swing.JFrame;
 
 public class Main {
